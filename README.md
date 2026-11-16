@@ -10,3 +10,7 @@ de una actividad práctica de Git.
 
 Aprender a gestionar versiones,
 guardar cambios y trabajar con ramas.
+
+## Cambios en rama pruebas
+
+Esta sección fue agregada desde la rama pruebas.
